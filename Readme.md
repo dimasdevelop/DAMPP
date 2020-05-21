@@ -85,6 +85,19 @@ initialized.
 **Copy your folder with the PHP files and paste it in the html folder go to your browser and put
 localhost / your_folder and enjoy the magic**
 
+### Social networks
+
+[![alt text][1.1]][1] [![alt text][2.1]][2] [![alt text][3.1]][3] [![alt text][4.1]][4]
+
+[1.1]: http://i.imgur.com/tXSoThF.png 'twitter icon with padding'
+[2.1]: https://i.imgur.com/A21PSOX.png 'linkedin icon with padding'
+[3.1]: https://i.imgur.com/FTfZyuk.png 'Instagram  icon with padding'
+[4.1]: http://i.imgur.com/0o48UoR.png 'github icon with padding'
+[1]: https://twitter.com/Jdlinux97
+[2]: https://www.linkedin.com/in/dimas-gonzalez/
+[3]: https://www.instagram.com/jdlinux/?hl=en
+[4]: https://github.com/Jdlinux97
+
 ## License
 
 MIT
