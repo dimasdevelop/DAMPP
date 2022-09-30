@@ -20,7 +20,7 @@ DAMPP requires [Docker](https://www.docker.com/) v19.03+ and
 Clone the repository on a pc.
 
 ```sh
-$ git clone https://github.com/Jdlinux97/DAMPP.git
+$ git clone https://github.com/dimasdevelop/DAMPP.git
 ```
 
 Position yourself in the containing folder.
@@ -93,10 +93,10 @@ localhost / your_folder and enjoy the magic**
 [2.1]: https://i.imgur.com/A21PSOX.png 'linkedin icon with padding'
 [3.1]: https://i.imgur.com/FTfZyuk.png 'Instagram  icon with padding'
 [4.1]: http://i.imgur.com/0o48UoR.png 'github icon with padding'
-[1]: https://twitter.com/Jdlinux97
+[1]: https://twitter.com/dimasdevelop
 [2]: https://www.linkedin.com/in/dimas-gonzalez/
-[3]: https://www.instagram.com/jdlinux/?hl=en
-[4]: https://github.com/Jdlinux97
+[3]: https://www.instagram.com/dimasdevelop/?hl=en
+[4]: https://github.com/dimasdevelop
 
 ## License
 
